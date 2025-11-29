@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ComicIvans.png" width="150" style="border-radius: 50%;" alt="ComicIvans Avatar">
+  <img src="https://ivan.wupp.dev/profile-pic.jpg" width="150" style="border-radius: 50%;" alt="ComicIvans Picture">
   
   <h1 align="center">Hi there, I'm Ivan 👋</h1>
   
