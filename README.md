@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.wupp.dev/ivan/">
+    <a href="https://ivan.wupp.dev/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3b82f6?style=for-the-badge&logo=firefox&logoColor=white" alt="Web">
     </a>
     <a href="mailto:isalidocobo@gmail.com">
