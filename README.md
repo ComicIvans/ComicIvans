@@ -11,8 +11,8 @@
     <a href="https://ivan.wupp.dev/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3b82f6?style=for-the-badge&logo=firefox&logoColor=white" alt="Web">
     </a>
-    <a href="mailto:isalidocobo@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="https://ivan.wupp.dev/contacto">
+      <img src="https://img.shields.io/badge/Contact-Online%20Form-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact">
     </a>
   </p>
 </div>
