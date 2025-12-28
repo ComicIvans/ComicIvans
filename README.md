@@ -8,10 +8,10 @@
   </p>
 
   <p align="center">
-    <a href="https://ivan.wupp.dev/">
+    <a href="https://ivan.wupp.dev/en/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3b82f6?style=for-the-badge&logo=firefox&logoColor=white" alt="Web">
     </a>
-    <a href="https://ivan.wupp.dev/contacto">
+    <a href="https://ivan.wupp.dev/en/contacto">
       <img src="https://img.shields.io/badge/Contact-Online%20Form-D14836?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact">
     </a>
   </p>
